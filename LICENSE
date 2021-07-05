@@ -1,0 +1,36 @@
+idk what hecking license this is under
+because I don't have a copy of the license.
+
+this is a modified version of the original script.
+
+the original script is available at:
+http://www.voidspace.org.uk/python/weblog/arch_d7_2007_07_03.shtml
+
+
+"""
+
+
+import sys
+import os
+import re
+import time
+import socket
+import urllib
+import urllib2
+import httplib
+import cookielib
+import HTMLParser
+from urlparse import urlparse
+import gzip
+import StringIO
+import zlib
+import bz2
+import StringIO
+import cStringIO
+import tempfile
+import traceback
+import logging
+import datetime
+import time
+
+the license is: do what you want with it, just don't claim you wrote it.
